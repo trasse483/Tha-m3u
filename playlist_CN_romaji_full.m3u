@@ -1,0 +1,559 @@
+#EXTM3U
+#EXTINF:-1 group-title="CN",CCTV-1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+#EXTINF:-1 group-title="CN",CCTV-2
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-3
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 group-title="CN",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="CN",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="CN",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="CN",CCTV-9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 group-title="CN",CCTV-10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="CN",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-12
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="CN",CCTV-14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-15
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 group-title="CN",CCTV-16
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="CN",CCTV-17
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+#EXTINF:-1 group-title="CN",CETV-1
+http://198.204.228.26/live/cetv1hd.m3u8
+#EXTINF:-1 group-title="CN",CETV-3
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 group-title="CN",Wenhua Jingpin
+http://107.150.60.122/live/ysjp.m3u8
+#EXTINF:-1 group-title="CN",Yangshi Taiqiu
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="CN",Fengyun Yinyue
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 group-title="CN",Diyi Juchang
+http://107.150.60.122/live/dyjc.m3u8
+#EXTINF:-1 group-title="CN",Fengyun Juchang
+http://173.208.212.130:8181/720p/fyjc.m3u8
+#EXTINF:-1 group-title="CN",Huaijiu Juchang
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 group-title="CN",Nuxing Shishang
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Gaoerfu Wangqiu
+http://207.56.13.146:81/cdnlive/gefwq.m3u8
+#EXTINF:-1 group-title="CN",Fengyun Zuqiu
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+#EXTINF:-1 group-title="CN",Dianshi Zhinan
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
+#EXTINF:-1 group-title="CN",Shijie Dili
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 group-title="CN",Bingqi Keji
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Guangdong Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+#EXTINF:-1 group-title="CN",Zhejiang Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+#EXTINF:-1 group-title="CN",Hunan Weishi
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="CN",Beijing Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+#EXTINF:-1 group-title="CN",Hubei Weishi
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="CN",Heilongjiang Weishi
+http://107.150.60.122/live/hljwshd.m3u8
+#EXTINF:-1 group-title="CN",Anhui Weishi
+http://107.150.60.122/live/ahwshd.m3u8
+#EXTINF:-1 group-title="CN",Chongqing Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+#EXTINF:-1 group-title="CN",Dongfang Weishi
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="CN",Dongnan Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
+#EXTINF:-1 group-title="CN",Gansu Weishi
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Guangxi Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
+#EXTINF:-1 group-title="CN",Guizhou Weishi
+http://107.150.60.122/live/gzwshd.m3u8
+#EXTINF:-1 group-title="CN",Hainan Weishi
+http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1 group-title="CN",Hebei Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
+#EXTINF:-1 group-title="CN",Henan Weishi
+http://107.150.60.122/live/hawshd.m3u8
+#EXTINF:-1 group-title="CN",Jilin Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+#EXTINF:-1 group-title="CN",Jiangsu Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+#EXTINF:-1 group-title="CN",Jiangxi Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd
+#EXTINF:-1 group-title="CN",Liaoning Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
+#EXTINF:-1 group-title="CN",Neimenggu Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
+#EXTINF:-1 group-title="CN",Ningxia Weishi
+http://107.150.60.122/live/nxws.m3u8
+#EXTINF:-1 group-title="CN",Qinghai Weishi
+http://107.150.60.122/live/qhws.m3u8
+#EXTINF:-1 group-title="CN",Shandong Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
+#EXTINF:-1 group-title="CN",Shanxi Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
+#EXTINF:-1 group-title="CN",Shaanxi Weishi
+http://192.151.150.154/live/snwshd.m3u8
+#EXTINF:-1 group-title="CN",Sichuan Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
+#EXTINF:-1 group-title="CN",Shenzhen Weishi
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 group-title="CN",Sansha Weishi
+http://107.150.60.122/live/ssws.m3u8
+#EXTINF:-1 group-title="CN",Tianjin Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
+#EXTINF:-1 group-title="CN",Xizang Weishi
+http://107.150.60.122/live/xzws.m3u8
+#EXTINF:-1 group-title="CN",Xinjiang Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
+#EXTINF:-1 group-title="CN",Yunnan Weishi
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+#EXTINF:-1 group-title="CN",Guangdong Zhujiang
+http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Guangdong Tiyu
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Guangdong Xinwen
+http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Guangdong Minsheng
+http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Dawanqu Weishi
+http://198.204.228.26/live/nfws.m3u8
+#EXTINF:-1 group-title="CN",Guangzhou Zonghe
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 group-title="CN",Zhejiang Qianjiang
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
+#EXTINF:-1 group-title="CN",Zhejiang Jingji Shenghuo
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Jiaoyu
+http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Minsheng
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 group-title="CN",Zhejiang Xinwen
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 group-title="CN",Zhejiang Shaoer
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Jiaoke
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Jingji
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhijiang Jilu
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Guoji
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="CN",Huzhou Xinwen Zonghe
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+#EXTINF:-1 group-title="CN",Huzhou Wenhua Yule
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 group-title="CN",Zhejiang Jingshi
+http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Shuma Shidai
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Jiaoke Yingshi
+http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Gonggong Xinwen
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhejiang Xiuxian Tai
+http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+#EXTINF:-1 group-title="CN",Qingtian Dianshitai
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="CN",Xiangshan Zonghe
+http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#EXTINF:-1 group-title="CN",Xiangshan Xinwen Zonghe
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="CN",Jinyun Xinwen Zonghe
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="CN",Shaoxing Dianshitai Gonggong
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="CN",Huzhou Gonggong Minsheng
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+#EXTINF:-1 group-title="CN",Haining Xinwen Zonghe
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+#EXTINF:-1 group-title="CN",Putuo Dianshitai
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="CN",Putuo Xinwen Zonghe
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="CN",Wencheng Xinwen Zonghe
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="CN",Shuma Shidai
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+#EXTINF:-1 group-title="CN",Zhongguolan Xinwen
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 group-title="CN",Dongyang Yingshi Shenghuo
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="CN",Beijing Xinwen
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Beijing Kejiao
+http://120.76.248.139/live/bfgd/4200000113.m3u8
+#EXTINF:-1 group-title="CN",Shanghai Diyi Caijing
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Xinwen Zonghe
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1 group-title="CN",Huanxiao Juchang
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Diyi Caijing
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Dushi Juchang
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Wanyuan Xinwen Zonghe
+http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+#EXTINF:-1 group-title="CN",Wanzhou Sanxia Yimin
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="CN",Chongqing Xinwen
+http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="CN",Liuhe Xinwen Zonghe
+http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
+#EXTINF:-1 group-title="CN",Wujin Shenghuo
+http://43.251.226.89:8080/play/522.m3u8
+#EXTINF:-1 group-title="CN",Siyang Zixun
+http://43.251.226.89:8080/play/530.m3u8
+#EXTINF:-1 group-title="CN",Binhai Xinwen Zonghe
+http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+#EXTINF:-1 group-title="CN",Suzhou 4K
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="CN",Suzhou Wenhua Shenghuo
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="CN",Suzhou Xinwen Zonghe
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="CN",Suzhou Shenghuo Zixun
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 group-title="CN",Suzhou Shehui Jingji
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="CN",Zhenjiang Ertao Shehui Minsheng
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="CN",Chaoyang Xinwen Zonghe
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 group-title="CN",Liaoning Yingshiju
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 group-title="CN",Liaoning Jiaoyu Qingshao
+http://120.76.248.139/live/bfgd/4200000075.m3u8
+#EXTINF:-1 group-title="CN",Liaoning Shenghuo
+http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 group-title="CN",Liaoning Jingji
+http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 group-title="CN",Guangxi Xinwen
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 group-title="CN",Guangxi Guoji
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 group-title="CN",Nanning Yingshi Yule
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 group-title="CN",Wuqing Zonghe
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+#EXTINF:-1 group-title="CN",Lezhi Zonghe
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="CN",Jingyan Zonghe
+http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1 group-title="CN",Jiange Zonghe
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="CN",Mingshan Zonghe
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+#EXTINF:-1 group-title="CN",Guangyuan Gonggong
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1 group-title="CN",Yingjing Zonghe
+https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+#EXTINF:-1 group-title="CN",Jinchuan Xinwen Zonghe
+http://139.203.180.9:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="CN",Yaan Xinwen Zonghe
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 group-title="CN",Qingchuan Zonghe
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1 group-title="CN",Xiamen Weishi
+http://192.151.150.154/live/xmws.m3u8
+#EXTINF:-1 group-title="CN",Fujian Xinwen
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Fujian Jingji
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Fujian Haixia Weishi
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 group-title="CN",Liyuan
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
+#EXTINF:-1 group-title="CN",Gansu Jingji
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 group-title="CN",Gansu Dushi
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Jiayuguan Zonghe
+http://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="CN",Tianzhu Zonghe
+https://play.kankanlive.com/live/1656487214793905.m3u8
+#EXTINF:-1 group-title="CN",Zhangye Xinwen Zonghe
+https://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="CN",Yongchang Zonghe
+https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 group-title="CN",Weiyuan Xinwen
+http://play.kankanlive.com/live/1720408280309109.m3u8
+#EXTINF:-1 group-title="CN",Baiyin Zonghe
+http://play.kankanlive.com/live/1720408089419110.m3u8
+#EXTINF:-1 group-title="CN",Qinan Zonghe
+https://play.kankanlive.com/live/1659926941626981.m3u8
+#EXTINF:-1 group-title="CN",Xifeng Zonghe
+https://play.kankanlive.com/live/1683944827526991.m3u8
+#EXTINF:-1 group-title="CN",Hami Ertao
+https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+#EXTINF:-1 group-title="CN",Hami Santao
+https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+#EXTINF:-1 group-title="CN",Yili Weiwuer
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="CN",Yili Hasake
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 group-title="CN",Yili Jingji Fazhi
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="CN",Shandong Jiaoyu
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 group-title="CN",Taigu Xinwen Zonghe
+https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+#EXTINF:-1 group-title="CN",Dingxiang Zonghe
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="CN",Wuxiang Xinwen Zonghe
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+#EXTINF:-1 group-title="CN",Fenxi Zonghe
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 group-title="CN",Licheng Zonghe
+http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="CN",Guzhen Xinwen
+http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="CN",Guangde Shenghuo
+https://live.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1 group-title="CN",Yanbian Weishi
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="CN",Jilin Xiangcun
+https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Neimeng Nongmu
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 group-title="CN",Neimenggu Shaoer
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="CN",Neimenggu Wenti Yule
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="CN",Neimenggu Mengyu Wenhua
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 group-title="CN",Yimen Zonghe
+https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+#EXTINF:-1 group-title="CN",Tonghai Dianshitai
+https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+#EXTINF:-1 group-title="CN",Longchuan Zonghe
+https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
+#EXTINF:-1 group-title="CN",Yunnan Dushi
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 group-title="CN",Yunnan Yule
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 group-title="CN",Qitaihe Xinwen Zonghe
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+#EXTINF:-1 group-title="CN",Shuangyashan Zonghe
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1 group-title="CN",TVBS Yazhou
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="CN",Wuxian Xinwen
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 group-title="CN",Dongsen Chaoshi
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="CN",CHC Jiating Yingyuan
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+#EXTINF:-1 group-title="CN",CHC Dongzuo Dianying
+http://198.204.228.26/live/chcdz.m3u8
+#EXTINF:-1 group-title="CN",Jingdian Dianying
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 group-title="CN",Tianjin Tiyu
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+#EXTINF:-1 group-title="CN",Tianyuan Weiqi
+http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+#EXTINF:-1 group-title="CN",Yinyue Xianchang
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 group-title="CN",Xiyouji
+http://173.208.234.146/live/vlxyj.m3u8
+#EXTINF:-1 group-title="CN",Shuihuzhuan
+http://173.208.234.146/live/vlshz.m3u8
+#EXTINF:-1 group-title="CN",Chuangguandong
+http://173.208.234.146/live/lbchuangguandong.m3u8
+
+# ===== Additional channels from new source =====
+#EXTINF:-1 group-title="CN",Asian Drama
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 group-title="CN",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="CN",Fenghuang Xianggang
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="CN",Fenghuang Zhongwen
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="CN",Fenghuang Zixun
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="CN",Golden Jade
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 group-title="CN",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="CN",Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="CN",HOY Infotainment
+https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+#EXTINF:-1 group-title="CN",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+#EXTINF:-1 group-title="CN",Meiya C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="CN",Meiya Dianying
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 group-title="CN",Minshi Xinwen
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="CN",Mingzhu Tai
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 group-title="CN",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CN",Renjian Weishi
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="CN",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="CN",RTHK TV 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="CN",RTHK TV 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 group-title="CN",RTHK TV 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 group-title="CN",RTHK TV 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 group-title="CN",Sanli Xiju
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="CN",Taishi Xinwen
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="CN",TVB Feicui Tai
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="CN",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="CN",TVBS Xinwen Tai
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="CN",Weilai Jingcai
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="CN",Xianggang Weishi
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="CN",Youxian Xinwen
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="CN",CCTV-1
+http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="CN",CCTV-3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="CN",CCTV-5+
+http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",CCTV-6
+http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
+#EXTINF:-1 group-title="CN",CCTV-7
+http://36.136.38.87:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",CCTV-9
+http://59.39.89.130:60901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",CCTV-10
+http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="CN",CCTV-13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 group-title="CN",CCTV-14
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-16
+http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="CN",CCTV-17
+http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="CN",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CN",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="CN",CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 group-title="CN",CGTN Ayu
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 group-title="CN",CGTN Fayu
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 group-title="CN",CGTN Jilu
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 group-title="CN",CGTN Xiyu
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 group-title="CN",Anduo Weishi
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="CN",Beijing Weishi
+http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Bingtuan Weishi
+http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Chongqing Weishi
+http://59.39.89.130:60901/tsfile/live/0125_24.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Dawanqu Weishi
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 group-title="CN",Dongfang Weishi
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="CN",Fujian Haixia Weishi
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 group-title="CN",Gansu Weishi
+http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="CN",Guangdong Weishi
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="CN",Guangxi Weishi
+http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Guizhou Weishi
+http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Hainan Weishi
+http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1 group-title="CN",Hebei Weishi
+http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Henan Weishi
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Heilongjiang Weishi
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 group-title="CN",Hubei Weishi
+http://222.169.85.8:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Hunan Weishi
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="CN",Jilin Weishi
+http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Jiangsu Weishi
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1 group-title="CN",Jiangxi Weishi
+http://36.136.38.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Liaoning Weishi
+http://59.39.89.130:60901/tsfile/live/0125_13.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Neimenggu Weishi
+http://120.76.248.139/live/bfgd/4200000110.m3u8
+#EXTINF:-1 group-title="CN",Ningxia Weishi
+http://120.76.248.139/live/bfgd/4200000118.m3u8
+#EXTINF:-1 group-title="CN",Nonglin Weishi
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 group-title="CN",Qinghai Weishi
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 group-title="CN",Shandong Weishi
+http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Shanxi Weishi
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="CN",Shaanxi Weishi
+http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Shenzhen Weishi
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 group-title="CN",Tianjin Weishi
+http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Xizang Weishi
+http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Xinjiang Weishi
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1 group-title="CN",Yanbian Weishi
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 group-title="CN",Yunnan Weishi
+http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="CN",Zhejiang Weishi
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="CN",Zhujiang Weishi
+http://iptv.4666888.xyz/iptv2A.php?id=19
